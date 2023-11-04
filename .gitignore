@@ -1,0 +1,8 @@
+build
+build-release
+build-debug
+debug
+release
+main.dSYM
+.vscode
+main
