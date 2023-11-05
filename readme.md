@@ -6,6 +6,6 @@ this is my attempt at problems at eolymp.com
 
 ```
 1 -> ok
-21 -> On hold. I couldn't finish it, because I have no good solution for it, because it is not greedy algorithm, I suppose it is dynamic programming problem and I don't know it yet.
+21 -> On hold. I couldn't finish it, because I have no good solution for it, because it is not greedy algorithm, I suppose it is dynamic programming problem and I don't know it yet. (https://www.eolymp.com/en/submissions/15000768)
 
 ```
